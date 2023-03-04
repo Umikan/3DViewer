@@ -46,7 +46,7 @@ You can grab GLTF models from
 ### PMX/VMD
 PMX/VMD is 3D format used in MMD(Miku Miku Dance). VMD includes motion data which is applied to PMX model. I recommend you to visit MMD community website since they have produced numerous characters or motions. 
 
-## Is there any specifications of those formats?
+## Are there any specifications of those formats?
 Here are links you may want to read:
 * [GLTF 2.0 Specification](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.pdf)
 * [Wavefront OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
