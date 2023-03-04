@@ -55,4 +55,4 @@ NOTE: The specifications of PMX/VMD is unofficial.
 
 ## Trouble Shooting
 Some anti-virus softwares prevent this software from executing. If you have that situation, please go to settings then exclude the temporary directory on which `jogamp_***.exe` is running.
-It's also important that you have to assign high prioprity to `java.exe`.
+It's also important that you have to assign high priority to `java.exe`.
